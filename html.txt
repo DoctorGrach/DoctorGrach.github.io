@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GitHub Website Template</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Заголовок сайта</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Главная</a></li>
+        <li><a href="#">О нас</a></li>
+        <li><a href="#">Контакты</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Секция 1</h2>
+      <p>Текст секции 1</p>
+    </section>
+
+    <section>
+      <h2>Секция 2</h2>
+      <p>Текст секции 2</p>
+    </section>
+
+    <section>
+      <h2>Секция 3</h2>
+      <p>Текст секции 3</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Автор: Ваше имя</p>
+  </footer>
+</body>
+</html>
